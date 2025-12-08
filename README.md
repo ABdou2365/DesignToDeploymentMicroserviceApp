@@ -5,6 +5,8 @@ This is the repository for the LinkedIn Learning course `Java Microservices: Fro
 
 ## Course Description
 
+This course covers the basics of microservices architecture. Instructor Bethan Palmer shows you when and how to use microservices and how to design a microservices architecture. Learn how to build services in Java that can be used as microservices, how to use them together with Docker and Docker Compose, and how to deploy them. Throughout the course, the core concepts are demonstrated using a simple real-world example of an application that uses microservices.
+
 _See the readme file in the main branch for updated instructions and information._
 ## Instructions
 This repository has branches for each of the videos in the course. You can use the branch pop up menu in github to switch to a specific branch and take a look at the course at that stage, or you can add `/tree/BRANCH_NAME` to the URL to go to the branch you want to access.
@@ -24,24 +26,16 @@ To resolve this issue:
     Add changes to git using this command: git add .
 	Commit changes using this command: git commit -m "some message"
 
-## Installing
-1. To use these exercise files, you must have the following installed:
-	- [list of requirements for course]
-2. Clone this repository into your local machine using the terminal (Mac), CMD (Windows), or a GUI tool like SourceTree.
-3. [Course-specific instructions]
-
 ## Instructor
 
-Instructor name
+Bethan Palmer
 
-Instructor description
+Developer                 
 
-                            
-
-Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/).
+Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/bethan-palmer?u=104).
 
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 
-[lil-course-url]: https://www.linkedin.com/learning/
-[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4E0DAQG0eDHsyOSqTA/learning-public-crop_675_1200/B4EZVdqqdwHUAY-/0/1741033220778?e=2147483647&v=beta&t=FxUDo6FA8W8CiFROwqfZKL_mzQhYx9loYLfjN-LNjgA
+[lil-course-url]: https://www.linkedin.com/learning/java-microservices-from-design-to-deployment
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4E0DAQFqbT3b2U7Hbg/learning-public-crop_675_1200/B4EZrhqlXEHMAY-/0/1764722628329?e=2147483647&v=beta&t=RFUwZKmHnR5Bc26C5BQZTvhL994TrXZThI0Deom44Vw

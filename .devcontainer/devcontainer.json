@@ -1,15 +1,14 @@
 {
 	"name": "Java",
 	"image": "mcr.microsoft.com/devcontainers/java:1-21",
-    "features": {
-      "ghcr.io/devcontainers/features/java:1": {
-        "version": "21",
-        "installMaven": "false",
-        "mavenVersion": "3.8.6",
-        "installGradle": "false",
-      },
-      "ghcr.io/devcontainers/features/docker-in-docker:2.1.0": {}
-    },
+	"features": {
+		"ghcr.io/devcontainers/features/java:1": {
+			"version": "21",
+			"installMaven": "false",
+			"mavenVersion": "3.8.6",
+			"installGradle": "false"
+		}
+	},
 	// Configure tool-specific properties.
 	"customizations": {
 		"codespaces": {
