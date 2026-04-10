@@ -1,0 +1,12 @@
+services:
+  guest-service:
+    build: ./guest-service
+    ports:
+      - "8080:8080"
+    container_name: guest-service
+
+  booking-service:
+    build: ./booking-service
+    ports:
+      - "8081:8080"
+    container_name: booking-service
